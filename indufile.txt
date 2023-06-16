@@ -1,1 +1,1 @@
-To test if GITHub CSM integration works with Jenkins Integration Server
+To test if GITHub CSM integration works with Jenkins Integration Server2
